@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rahuldara009/rahuldara009.github.io/static/css/main.51f52425.css",
+    "main.js": "/rahuldara009/rahuldara009.github.io/static/js/main.911b3172.js",
+    "static/js/453.1fe4642b.chunk.js": "/rahuldara009/rahuldara009.github.io/static/js/453.1fe4642b.chunk.js",
+    "static/media/back.jpeg": "/rahuldara009/rahuldara009.github.io/static/media/back.40dbd0966eb1ffeac78e.jpeg",
+    "index.html": "/rahuldara009/rahuldara009.github.io/index.html",
+    "main.51f52425.css.map": "/rahuldara009/rahuldara009.github.io/static/css/main.51f52425.css.map",
+    "main.911b3172.js.map": "/rahuldara009/rahuldara009.github.io/static/js/main.911b3172.js.map",
+    "453.1fe4642b.chunk.js.map": "/rahuldara009/rahuldara009.github.io/static/js/453.1fe4642b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f52425.css",
+    "static/js/main.911b3172.js"
+  ]
+}
